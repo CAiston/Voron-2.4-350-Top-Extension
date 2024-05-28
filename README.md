@@ -13,3 +13,5 @@ Steps:
 3. Fasten each set of right and left panels together with a joiner and two M3 x 8 flat head screws.
 4. Insert four M3 roll-in T-nuts in the top slot of each top frame rail, then fasten each panel assembly to the frame with four M3 x 10 flat head screws.
 5. Screw two M3 x 8 flat head screws into the right end of each panel into the left end of the adjacent panel
+
+![Voron 2.4 350 Top Extension](https://github.com/CAiston/Voron-2.4-350-Top-Extension/blob/main/Images/Voron%202.4%20350%20Top%20Extension%2001%20Detail%201600x1120.jpg)
